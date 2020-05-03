@@ -22,7 +22,7 @@ grammatically equal.
 
 **and, but , however, or, so, then, therefore**
 
-**Position:** Coordinating conjunctions are always located between
+**Position:** Coordinating conjunctions are always located **between**
 the words or phrases that they connect.
 
 Examples:
@@ -38,7 +38,7 @@ without the main clause. Most conjunctions are of this type.
 
 **although, as, after, before, if, since, so that, until, when**
 
-**Position:** Subordinating conjunctions generally are found in front of
+**Position:** Subordinating conjunctions generally are found **in front of**
 the subordinate clause.
 
 Examples:
@@ -72,8 +72,8 @@ Below is a list of conjunctions with their definition, type and form.
 | But                                     | Presents a contrast or exception                                                                                                                                                        | simple       | X |   | 
 | Either … or                             | Used to indicate choices or possibilities; one or the other of two                                                                                                                      | correlative  | X |   | 
 | Even if                                 | Used to stress that something will happen despite something else that might prevent it                                                                                                  | compound     |   | X | 
-| even though                             | A stronger way to say “though” or “although”                                                                                                                                            | compound     |   | X | 
-| however                                 | Presents a contrast or exception                                                                                                                                                        | simple       | X |   | 
+| Even though                             | A stronger way to say “though” or “although”                                                                                                                                            | compound     |   | X | 
+| However                                 | Presents a contrast or exception                                                                                                                                                        | simple       | X |   | 
 | If                                      | Used to talk about the result or effect of something that may happen or be true; used with conditional statements                                                                       | simple       |   | X | 
 | In case                                 | Used to talk about something that might happen or be true                                                                                                                               | compound     |   | X | 
 | In order to                             | To make it possible for something to happen                                                                                                                                             | compound     |   | X |
@@ -97,3 +97,7 @@ Below is a list of conjunctions with their definition, type and form.
 | Whether                                 | If it is or was true that                                                                                                                                                               | simple       |   | X | 
 | Whether … or                            | Used to indicate choices or possibilities                                                                                                                                               | correlative  |   | X | 
 | Yet                                     | Presents a contrast or exception                                                                                                                                                        | simple       | X |   | 
+
+## References
+
+[https://www.curso-ingles.com/en/learn/courses/intermediate-level/conjunctions/conjunctions](https://www.curso-ingles.com/en/learn/courses/intermediate-level/conjunctions/conjunctions)
